@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou Marcos Paulo Oliveira Santos</h1>
+<h1 align="center"> Sou Marcos Paulo Oliveira Santos</h1>
 <h3 align="center">Um desenvolvedor frontend e backend apaixonado do Brasil.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
