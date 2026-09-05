@@ -128,8 +128,8 @@ Sistema web para gerenciamento de livros, clientes, colaboradores, autenticaçã
 
 ## Contato
 
-**LinkedIn:** [seu LinkedIn]
+**LinkedIn:** [(https://www.linkedin.com/in/marcos-paulo-93a865294/)]
 
-**E-mail:** [seu e-mail profissional]
+**E-mail:** [Kinho.FullStack@gmail.com]
 
 **GitHub:** @Kinho337
